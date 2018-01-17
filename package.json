@@ -1,0 +1,32 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "A language interpretation terminal application that pulls data from Spotify, Twitter, and OMDb and displays in console.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "\"Hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stehar14/LIRI.git"
+  },
+  "keywords": [
+    "liri",
+    "spotify",
+    "omdb",
+    "twitter"
+  ],
+  "author": "Steve Harold (stehar14)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stehar14/LIRI/issues"
+  },
+  "homepage": "https://github.com/stehar14/LIRI#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
