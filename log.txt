@@ -1,0 +1,53 @@
+============================= 
+my-tweets
+=============================
+Tweeted at: Sat Jan 20 14:54:16 +0000 2018   Tweet: RT @wesbos: 🔥 Announcing my latest course on CSS Grid!
+
+From CSS Grid fundamentals to real world layouts in 25 videos / 4 hours.  
+
+Totally…
+Tweeted at: Sat Jan 20 14:53:59 +0000 2018   Tweet: RT @dan_abramov: npm install tide-pods
+Tweeted at: Sat Jan 20 14:53:40 +0000 2018   Tweet: RT @nresearchnews: 2017 witnessed incredible advances in CRISPR–Cas9 gene editing technology. We present a synopsis of the 10 most popular…
+Tweeted at: Sat Jan 20 14:53:03 +0000 2018   Tweet: @CodeNewbies Already tackled HTML, CSS, and JavaScript at the tail end of last year. Now I'm working on learning no… https://t.co/kkC9Hw558L
+Tweeted at: Sat Jan 20 14:51:48 +0000 2018   Tweet: RT @CodeWisdom: "Programming is like pinball. The reward for doing it is the opportunity of doing it again." -  Unknown
+Tweeted at: Thu Jan 18 02:55:33 +0000 2018   Tweet: Got my twitter app functioning!
+Tweeted at: Tue Jan 16 23:14:06 +0000 2018   Tweet: Currently working on a node.js terminal app...
+Tweeted at: Tue Jan 16 23:13:34 +0000 2018   Tweet: Hello world!
+Tweeted at: Thu Jan 11 23:41:37 +0000 2018   Tweet: RT @CodeWisdom: “As a software developer, you are your own worst enemy. The sooner you realize that, the better off you’ll be.” - Jeff Atwo…
+============================= 
+movie-this Get Out
+=============================
+Title: Get Out
+Release date: 24 Feb 2017
+Rotten Tomatoes Rating: 99%
+IMDb Rating: 7.7/10
+Country produced: Japan, USA
+Language: English
+Plot: It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
+Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
+============================= 
+spotify-this-song Wish You Were Here
+=============================
+Song: Wish You Were Here
+Artist: Pink Floyd
+Album: Wish You Were Here
+Link to song: https://api.spotify.com/v1/tracks/6mFkJmJqdDVQ1REhVfGgd1
+============================= 
+do-what-it-says
+=============================
+============================= 
+my-tweets
+=============================
+Tweeted at: Sat Jan 20 14:54:16 +0000 2018   Tweet: RT @wesbos: 🔥 Announcing my latest course on CSS Grid!
+
+From CSS Grid fundamentals to real world layouts in 25 videos / 4 hours.  
+
+Totally…
+Tweeted at: Sat Jan 20 14:53:59 +0000 2018   Tweet: RT @dan_abramov: npm install tide-pods
+Tweeted at: Sat Jan 20 14:53:40 +0000 2018   Tweet: RT @nresearchnews: 2017 witnessed incredible advances in CRISPR–Cas9 gene editing technology. We present a synopsis of the 10 most popular…
+Tweeted at: Sat Jan 20 14:53:03 +0000 2018   Tweet: @CodeNewbies Already tackled HTML, CSS, and JavaScript at the tail end of last year. Now I'm working on learning no… https://t.co/kkC9Hw558L
+Tweeted at: Sat Jan 20 14:51:48 +0000 2018   Tweet: RT @CodeWisdom: "Programming is like pinball. The reward for doing it is the opportunity of doing it again." -  Unknown
+Tweeted at: Thu Jan 18 02:55:33 +0000 2018   Tweet: Got my twitter app functioning!
+Tweeted at: Tue Jan 16 23:14:06 +0000 2018   Tweet: Currently working on a node.js terminal app...
+Tweeted at: Tue Jan 16 23:13:34 +0000 2018   Tweet: Hello world!
+Tweeted at: Thu Jan 11 23:41:37 +0000 2018   Tweet: RT @CodeWisdom: “As a software developer, you are your own worst enemy. The sooner you realize that, the better off you’ll be.” - Jeff Atwo…

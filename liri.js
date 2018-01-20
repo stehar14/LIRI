@@ -188,10 +188,10 @@ function log(toAppend) {
 // Function to log process.argv[2] and process.argv[3] (if applicable) to log.txt
 function logHead() {
 	if (search !== undefined) {
-		log("============================= \r\n" + userService + " " + search);
+		log("============================= \r\n" + userService + " " + search + "\r\n=============================");
 	} else if (process.argv[3] !== undefined) {
-		log("============================= \r\n" + userService + " " + process.argv[3]);
+		log("============================= \r\n" + userService + " " + process.argv[3] + "\r\n=============================");
 	} else {
-		log("============================= \r\n" + userService);
+		log("============================= \r\n" + userService + "\r\n=============================");
 	}
 };
