@@ -54,11 +54,11 @@ function tweeter() {
 	});
 }
 
-// Function to run when process.argv[2] is
+// Function to run when process.argv[2] is spotify-this-song
 function spotter() {
 	console.log("spotify");
 	if (process.argv[3] === undefined && search === undefined){
-		
+	// Default ace of bass, the sign	
 		trackName = "ace the sign";
 	} else if (search !== undefined) {
 		trackName = search;
@@ -66,10 +66,11 @@ function spotter() {
 		trackName = process.argv[3];
 	}
 	console.log(trackName);
+	// Search spotify based off of the trackName
 	spotify.search({ type: 'track', query: trackName }, function(err, data) {
-			if (err) {
-			return console.log('Error occurred: ' + err);
-			}
+		if (err) {
+		return console.log('Error occurred: ' + err);
+		}
 
 		console.log("Artist: " + data.tracks.items[0].artists[0].name);
 		log("Artist: " + data.tracks.items[0].artists[0].name); 
@@ -86,14 +87,17 @@ function spotter() {
 	});
 }
 
+//Function for when process.argv[2] is movie-this
 function movier() {
 	if (process.argv[3] === undefined && search === undefined){
+		// Default
 		title = "Mr. Nobody";
 	} else if (search !== undefined) {
 		title = search;
 	} else {
 		title = process.argv[3];
 	}
+	// Request info from omdb api
 	request("http://www.omdbapi.com/?t=" + title + "&y=&plot=short&apikey=trilogy", function (error, response, body) {
 		if (!error && response.statusCode === 200) {
 
@@ -133,11 +137,14 @@ function movier() {
 	});
 }
 
+// Function for when process.argv[2] is do-what-it-says
 function randomer() {
 	//console.log("random");
+	// Reads random .text and splits the text each time a semicolon appears
 	fs.readFile('random.txt', 'utf-8', function read(err, data) {
 		var randSet = data.split(";");
 		randomNum = Math.floor(Math.random() * randSet.length);
+			// Split the randomly hcosen text into 2 pieces along the comma
 			var randCommand = randSet[randomNum].split(",");
 			userService = randCommand[0];
 			console.log(userService);
@@ -164,6 +171,7 @@ function randomer() {
 	});
 }
 
+//Function to log parameter into log.txt file
 function log(toAppend) {
   	fs.appendFile('log.txt', toAppend , function (err) {
   		if (err) throw err;
