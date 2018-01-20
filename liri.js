@@ -52,7 +52,7 @@ function tweeter() {
 					console.log(tweets[i].text);
 					console.log("                                                                ");
 					console.log("*******************************************************************");
-					log("Tweeted at: " + tweets[i].created_at + "   Tweet: " + tweets[i].text);
+					log("Tweeted at: " + tweets[i].created_at + "   Tweet: " + tweets[i].text + "\n----------------------------------------");
 				}
 			}
 	});
@@ -180,7 +180,7 @@ function randomer() {
 
 //Function to log parameter into log.txt file
 function log(toAppend) {
-  	fs.appendFile('log.txt', toAppend + "\r\n" , function (err) {
+  	fs.appendFile('log.txt', toAppend + "\n" , function (err) {
   		if (err) throw err;
 	});
 };
@@ -188,10 +188,10 @@ function log(toAppend) {
 // Function to log process.argv[2] and process.argv[3] (if applicable) to log.txt
 function logHead() {
 	if (search !== undefined) {
-		log("============================= \r\n" + userService + " " + search + "\r\n=============================");
+		log("============================= \n" + userService + " " + search + "\n=============================");
 	} else if (process.argv[3] !== undefined) {
-		log("============================= \r\n" + userService + " " + process.argv[3] + "\r\n=============================");
+		log("============================= \n" + userService + " " + process.argv[3] + "\n=============================");
 	} else {
-		log("============================= \r\n" + userService + "\r\n=============================");
+		log("============================= \n" + userService + "\n=============================");
 	}
 };

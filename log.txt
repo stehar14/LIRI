@@ -1,30 +1,56 @@
 ============================= 
 my-tweets
 =============================
+Tweeted at: Sat Jan 20 17:37:01 +0000 2018   Tweet: RT @_LancePorter: This echos some of the best advice I've ever gotten in my career! You're only a fraction of yourself when you're tired/bu…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:52 +0000 2018   Tweet: Tweet number twenty!
+----------------------------------------
+Tweeted at: Sat Jan 20 17:33:11 +0000 2018   Tweet: RT @tiersky: What's the difference between #UX and #UI?  https://t.co/OtKAPZDWye
+#DigitalMarketing #webdevelopment #webdesign #visualdesign…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:39 +0000 2018   Tweet: Anxious to figure out what my next assignment will be...
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:07 +0000 2018   Tweet: Anyone have any good node.js resources?
+----------------------------------------
+Tweeted at: Sat Jan 20 17:32:48 +0000 2018   Tweet: RT @freelancer: 12 Mistakes That Web Developers Often Make https://t.co/cpZF5yZVZ8 #webdevelopment https://t.co/O2clrHiKOl
+----------------------------------------
+Tweeted at: Sat Jan 20 17:29:30 +0000 2018   Tweet: RT @rinkidhiman771: Top 15 Effective #NodeJs Tools Web Developers Shouldn't Miss https://t.co/ykQktE6XF4 #AngularJS #reactjs #webdev #javas…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:29:22 +0000 2018   Tweet: RT @JavaScriptKicks: Difference between let and var in Javascript by codeburstio https://t.co/UvVkS10Ue3 #javascript via JavaScriptKicks
+----------------------------------------
+Tweeted at: Sat Jan 20 17:28:39 +0000 2018   Tweet: RT @Foone: Fun fact: PHP is older than Javascript. 
+
+PHP was created in 1994 and open sourced in June 1995.
+Javascript was written in May 1…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:27:11 +0000 2018   Tweet: RT @JavaScriptDaily: Asynchronous JavaScript: From Callback Hell to Async and Await - https://t.co/Im5Cj4PNpr (An reintroduction to asynchr…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:26:56 +0000 2018   Tweet: RT @Mybridge: Learn Node.js — we created a directory of top articles from last year. (v.2018)
+
+@nodejs #JavaScript https://t.co/GdFjBbOFJs…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:26:40 +0000 2018   Tweet: RT @JavaScriptDaily: An Extensive Guide to JavaScript Frameworks: https://t.co/uZsIwPccEA
+----------------------------------------
 Tweeted at: Sat Jan 20 14:54:16 +0000 2018   Tweet: RT @wesbos: 🔥 Announcing my latest course on CSS Grid!
 
 From CSS Grid fundamentals to real world layouts in 25 videos / 4 hours.  
 
 Totally…
+----------------------------------------
 Tweeted at: Sat Jan 20 14:53:59 +0000 2018   Tweet: RT @dan_abramov: npm install tide-pods
+----------------------------------------
 Tweeted at: Sat Jan 20 14:53:40 +0000 2018   Tweet: RT @nresearchnews: 2017 witnessed incredible advances in CRISPR–Cas9 gene editing technology. We present a synopsis of the 10 most popular…
+----------------------------------------
 Tweeted at: Sat Jan 20 14:53:03 +0000 2018   Tweet: @CodeNewbies Already tackled HTML, CSS, and JavaScript at the tail end of last year. Now I'm working on learning no… https://t.co/kkC9Hw558L
+----------------------------------------
 Tweeted at: Sat Jan 20 14:51:48 +0000 2018   Tweet: RT @CodeWisdom: "Programming is like pinball. The reward for doing it is the opportunity of doing it again." -  Unknown
+----------------------------------------
 Tweeted at: Thu Jan 18 02:55:33 +0000 2018   Tweet: Got my twitter app functioning!
+----------------------------------------
 Tweeted at: Tue Jan 16 23:14:06 +0000 2018   Tweet: Currently working on a node.js terminal app...
+----------------------------------------
 Tweeted at: Tue Jan 16 23:13:34 +0000 2018   Tweet: Hello world!
-Tweeted at: Thu Jan 11 23:41:37 +0000 2018   Tweet: RT @CodeWisdom: “As a software developer, you are your own worst enemy. The sooner you realize that, the better off you’ll be.” - Jeff Atwo…
-============================= 
-movie-this Get Out
-=============================
-Title: Get Out
-Release date: 24 Feb 2017
-Rotten Tomatoes Rating: 99%
-IMDb Rating: 7.7/10
-Country produced: Japan, USA
-Language: English
-Plot: It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
-Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
+----------------------------------------
 ============================= 
 spotify-this-song Wish You Were Here
 =============================
@@ -33,21 +59,239 @@ Artist: Pink Floyd
 Album: Wish You Were Here
 Link to song: https://api.spotify.com/v1/tracks/6mFkJmJqdDVQ1REhVfGgd1
 ============================= 
+movie-this Get Out
+=============================
+Title: Get Out
+Rotten Tomatoes Rating: 99%
+Country produced: Japan, USA
+Language: English
+Plot: It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
+Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
+IMDb Rating: 7.7/10
+Release date: 24 Feb 2017
+============================= 
 do-what-it-says
 =============================
 ============================= 
 my-tweets
 =============================
+Tweeted at: Sat Jan 20 17:37:01 +0000 2018   Tweet: RT @_LancePorter: This echos some of the best advice I've ever gotten in my career! You're only a fraction of yourself when you're tired/bu…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:52 +0000 2018   Tweet: Tweet number twenty!
+----------------------------------------
+Tweeted at: Sat Jan 20 17:33:11 +0000 2018   Tweet: RT @tiersky: What's the difference between #UX and #UI?  https://t.co/OtKAPZDWye
+#DigitalMarketing #webdevelopment #webdesign #visualdesign…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:32:48 +0000 2018   Tweet: RT @freelancer: 12 Mistakes That Web Developers Often Make https://t.co/cpZF5yZVZ8 #webdevelopment https://t.co/O2clrHiKOl
+----------------------------------------
+Tweeted at: Sat Jan 20 17:29:30 +0000 2018   Tweet: RT @rinkidhiman771: Top 15 Effective #NodeJs Tools Web Developers Shouldn't Miss https://t.co/ykQktE6XF4 #AngularJS #reactjs #webdev #javas…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:39 +0000 2018   Tweet: Anxious to figure out what my next assignment will be...
+----------------------------------------
+Tweeted at: Sat Jan 20 17:29:22 +0000 2018   Tweet: RT @JavaScriptKicks: Difference between let and var in Javascript by codeburstio https://t.co/UvVkS10Ue3 #javascript via JavaScriptKicks
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:07 +0000 2018   Tweet: Anyone have any good node.js resources?
+----------------------------------------
+Tweeted at: Sat Jan 20 17:28:39 +0000 2018   Tweet: RT @Foone: Fun fact: PHP is older than Javascript. 
+
+PHP was created in 1994 and open sourced in June 1995.
+Javascript was written in May 1…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:27:11 +0000 2018   Tweet: RT @JavaScriptDaily: Asynchronous JavaScript: From Callback Hell to Async and Await - https://t.co/Im5Cj4PNpr (An reintroduction to asynchr…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:26:56 +0000 2018   Tweet: RT @Mybridge: Learn Node.js — we created a directory of top articles from last year. (v.2018)
+
+@nodejs #JavaScript https://t.co/GdFjBbOFJs…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:26:40 +0000 2018   Tweet: RT @JavaScriptDaily: An Extensive Guide to JavaScript Frameworks: https://t.co/uZsIwPccEA
+----------------------------------------
 Tweeted at: Sat Jan 20 14:54:16 +0000 2018   Tweet: RT @wesbos: 🔥 Announcing my latest course on CSS Grid!
 
 From CSS Grid fundamentals to real world layouts in 25 videos / 4 hours.  
 
 Totally…
+----------------------------------------
 Tweeted at: Sat Jan 20 14:53:59 +0000 2018   Tweet: RT @dan_abramov: npm install tide-pods
+----------------------------------------
 Tweeted at: Sat Jan 20 14:53:40 +0000 2018   Tweet: RT @nresearchnews: 2017 witnessed incredible advances in CRISPR–Cas9 gene editing technology. We present a synopsis of the 10 most popular…
+----------------------------------------
 Tweeted at: Sat Jan 20 14:53:03 +0000 2018   Tweet: @CodeNewbies Already tackled HTML, CSS, and JavaScript at the tail end of last year. Now I'm working on learning no… https://t.co/kkC9Hw558L
+----------------------------------------
 Tweeted at: Sat Jan 20 14:51:48 +0000 2018   Tweet: RT @CodeWisdom: "Programming is like pinball. The reward for doing it is the opportunity of doing it again." -  Unknown
+----------------------------------------
 Tweeted at: Thu Jan 18 02:55:33 +0000 2018   Tweet: Got my twitter app functioning!
+----------------------------------------
 Tweeted at: Tue Jan 16 23:14:06 +0000 2018   Tweet: Currently working on a node.js terminal app...
+----------------------------------------
 Tweeted at: Tue Jan 16 23:13:34 +0000 2018   Tweet: Hello world!
-Tweeted at: Thu Jan 11 23:41:37 +0000 2018   Tweet: RT @CodeWisdom: “As a software developer, you are your own worst enemy. The sooner you realize that, the better off you’ll be.” - Jeff Atwo…
+----------------------------------------
+============================= 
+do-what-it-says
+=============================
+============================= 
+my-tweets
+=============================
+Tweeted at: Sat Jan 20 17:35:52 +0000 2018   Tweet: Tweet number twenty!
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:39 +0000 2018   Tweet: Anxious to figure out what my next assignment will be...
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:07 +0000 2018   Tweet: Anyone have any good node.js resources?
+----------------------------------------
+Tweeted at: Sat Jan 20 17:37:01 +0000 2018   Tweet: RT @_LancePorter: This echos some of the best advice I've ever gotten in my career! You're only a fraction of yourself when you're tired/bu…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:32:48 +0000 2018   Tweet: RT @freelancer: 12 Mistakes That Web Developers Often Make https://t.co/cpZF5yZVZ8 #webdevelopment https://t.co/O2clrHiKOl
+----------------------------------------
+Tweeted at: Sat Jan 20 17:33:11 +0000 2018   Tweet: RT @tiersky: What's the difference between #UX and #UI?  https://t.co/OtKAPZDWye
+#DigitalMarketing #webdevelopment #webdesign #visualdesign…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:29:30 +0000 2018   Tweet: RT @rinkidhiman771: Top 15 Effective #NodeJs Tools Web Developers Shouldn't Miss https://t.co/ykQktE6XF4 #AngularJS #reactjs #webdev #javas…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:29:22 +0000 2018   Tweet: RT @JavaScriptKicks: Difference between let and var in Javascript by codeburstio https://t.co/UvVkS10Ue3 #javascript via JavaScriptKicks
+----------------------------------------
+Tweeted at: Sat Jan 20 17:28:39 +0000 2018   Tweet: RT @Foone: Fun fact: PHP is older than Javascript. 
+
+PHP was created in 1994 and open sourced in June 1995.
+Javascript was written in May 1…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:26:56 +0000 2018   Tweet: RT @Mybridge: Learn Node.js — we created a directory of top articles from last year. (v.2018)
+
+@nodejs #JavaScript https://t.co/GdFjBbOFJs…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:27:11 +0000 2018   Tweet: RT @JavaScriptDaily: Asynchronous JavaScript: From Callback Hell to Async and Await - https://t.co/Im5Cj4PNpr (An reintroduction to asynchr…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:26:40 +0000 2018   Tweet: RT @JavaScriptDaily: An Extensive Guide to JavaScript Frameworks: https://t.co/uZsIwPccEA
+----------------------------------------
+Tweeted at: Sat Jan 20 14:54:16 +0000 2018   Tweet: RT @wesbos: 🔥 Announcing my latest course on CSS Grid!
+
+From CSS Grid fundamentals to real world layouts in 25 videos / 4 hours.  
+
+Totally…
+----------------------------------------
+Tweeted at: Sat Jan 20 14:53:59 +0000 2018   Tweet: RT @dan_abramov: npm install tide-pods
+----------------------------------------
+Tweeted at: Sat Jan 20 14:53:40 +0000 2018   Tweet: RT @nresearchnews: 2017 witnessed incredible advances in CRISPR–Cas9 gene editing technology. We present a synopsis of the 10 most popular…
+----------------------------------------
+Tweeted at: Sat Jan 20 14:53:03 +0000 2018   Tweet: @CodeNewbies Already tackled HTML, CSS, and JavaScript at the tail end of last year. Now I'm working on learning no… https://t.co/kkC9Hw558L
+----------------------------------------
+Tweeted at: Sat Jan 20 14:51:48 +0000 2018   Tweet: RT @CodeWisdom: "Programming is like pinball. The reward for doing it is the opportunity of doing it again." -  Unknown
+----------------------------------------
+Tweeted at: Thu Jan 18 02:55:33 +0000 2018   Tweet: Got my twitter app functioning!
+----------------------------------------
+Tweeted at: Tue Jan 16 23:14:06 +0000 2018   Tweet: Currently working on a node.js terminal app...
+----------------------------------------
+Tweeted at: Tue Jan 16 23:13:34 +0000 2018   Tweet: Hello world!
+----------------------------------------
+============================= 
+do-what-it-says
+=============================
+============================= 
+spotify-this-song "Wish You Were Here"
+=============================
+Album: Wish You Were Here
+Link to song: https://api.spotify.com/v1/tracks/6mFkJmJqdDVQ1REhVfGgd1
+Song: Wish You Were Here
+Artist: Pink Floyd
+============================= 
+do-what-it-says
+=============================
+============================= 
+spotify-this-song "I Want it That Way"
+=============================
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+Link to song: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+============================= 
+do-what-it-says
+=============================
+============================= 
+spotify-this-song "Second and Sebring"
+=============================
+Artist: Of Mice & Men
+Song: SECOND & SEBRING
+Link to song: https://api.spotify.com/v1/tracks/3bdqdxoWXP3z0KuDt0o4Cn
+Album: Of Mice & Men
+============================= 
+do-what-it-says
+=============================
+============================= 
+movie-this "I Love You Man"
+=============================
+Title: I Love You, Man
+Release date: 20 Mar 2009
+IMDb Rating: 7.0/10
+Country produced: USA
+Language: English
+Rotten Tomatoes Rating: 83%
+Plot: Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fiancée, can the trio learn to live happily ever after?
+Actors: Paul Rudd, Rashida Jones, Sarah Burns, Greg Levine
+============================= 
+do-what-it-says
+=============================
+============================= 
+my-tweets
+=============================
+Tweeted at: Sat Jan 20 17:37:01 +0000 2018   Tweet: RT @_LancePorter: This echos some of the best advice I've ever gotten in my career! You're only a fraction of yourself when you're tired/bu…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:52 +0000 2018   Tweet: Tweet number twenty!
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:39 +0000 2018   Tweet: Anxious to figure out what my next assignment will be...
+----------------------------------------
+Tweeted at: Sat Jan 20 17:35:07 +0000 2018   Tweet: Anyone have any good node.js resources?
+----------------------------------------
+Tweeted at: Sat Jan 20 17:33:11 +0000 2018   Tweet: RT @tiersky: What's the difference between #UX and #UI?  https://t.co/OtKAPZDWye
+#DigitalMarketing #webdevelopment #webdesign #visualdesign…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:32:48 +0000 2018   Tweet: RT @freelancer: 12 Mistakes That Web Developers Often Make https://t.co/cpZF5yZVZ8 #webdevelopment https://t.co/O2clrHiKOl
+----------------------------------------
+Tweeted at: Sat Jan 20 17:29:30 +0000 2018   Tweet: RT @rinkidhiman771: Top 15 Effective #NodeJs Tools Web Developers Shouldn't Miss https://t.co/ykQktE6XF4 #AngularJS #reactjs #webdev #javas…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:29:22 +0000 2018   Tweet: RT @JavaScriptKicks: Difference between let and var in Javascript by codeburstio https://t.co/UvVkS10Ue3 #javascript via JavaScriptKicks
+----------------------------------------
+Tweeted at: Sat Jan 20 17:28:39 +0000 2018   Tweet: RT @Foone: Fun fact: PHP is older than Javascript. 
+
+PHP was created in 1994 and open sourced in June 1995.
+Javascript was written in May 1…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:27:11 +0000 2018   Tweet: RT @JavaScriptDaily: Asynchronous JavaScript: From Callback Hell to Async and Await - https://t.co/Im5Cj4PNpr (An reintroduction to asynchr…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:26:56 +0000 2018   Tweet: RT @Mybridge: Learn Node.js — we created a directory of top articles from last year. (v.2018)
+
+@nodejs #JavaScript https://t.co/GdFjBbOFJs…
+----------------------------------------
+Tweeted at: Sat Jan 20 17:26:40 +0000 2018   Tweet: RT @JavaScriptDaily: An Extensive Guide to JavaScript Frameworks: https://t.co/uZsIwPccEA
+----------------------------------------
+Tweeted at: Sat Jan 20 14:54:16 +0000 2018   Tweet: RT @wesbos: 🔥 Announcing my latest course on CSS Grid!
+
+From CSS Grid fundamentals to real world layouts in 25 videos / 4 hours.  
+
+Totally…
+----------------------------------------
+Tweeted at: Sat Jan 20 14:53:59 +0000 2018   Tweet: RT @dan_abramov: npm install tide-pods
+----------------------------------------
+Tweeted at: Sat Jan 20 14:53:40 +0000 2018   Tweet: RT @nresearchnews: 2017 witnessed incredible advances in CRISPR–Cas9 gene editing technology. We present a synopsis of the 10 most popular…
+----------------------------------------
+Tweeted at: Sat Jan 20 14:53:03 +0000 2018   Tweet: @CodeNewbies Already tackled HTML, CSS, and JavaScript at the tail end of last year. Now I'm working on learning no… https://t.co/kkC9Hw558L
+----------------------------------------
+Tweeted at: Sat Jan 20 14:51:48 +0000 2018   Tweet: RT @CodeWisdom: "Programming is like pinball. The reward for doing it is the opportunity of doing it again." -  Unknown
+----------------------------------------
+Tweeted at: Thu Jan 18 02:55:33 +0000 2018   Tweet: Got my twitter app functioning!
+----------------------------------------
+Tweeted at: Tue Jan 16 23:14:06 +0000 2018   Tweet: Currently working on a node.js terminal app...
+----------------------------------------
+Tweeted at: Tue Jan 16 23:13:34 +0000 2018   Tweet: Hello world!
+----------------------------------------
+============================= 
+do-what-it-says
+=============================
+============================= 
+movie-this "Talladega Nights"
+=============================
+Title: Talladega Nights: The Ballad of Ricky Bobby
+IMDb Rating: 6.6/10
+Country produced: USA
+Language: English, French
+Release date: 04 Aug 2006
+Plot: Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.
+Rotten Tomatoes Rating: 71%
+Actors: Will Ferrell, John C. Reilly, Sacha Baron Cohen, Gary Cole
