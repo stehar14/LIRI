@@ -17,20 +17,24 @@ var userService = process.argv[2];
 // Main switch case evaluating the contents of process.argv[2]
 switch(userService) {
 	case "my-tweets":
+		logHead();
 		tweeter();
 		break;
 	case "spotify-this-song":
+		logHead();
 		spotter();
 		break;
 	case "movie-this":
+		logHead();
 		movier();
 		break;
 	case "do-what-it-says":
+		logHead();
 		randomer();
 		break;
 	default:
 		console.log('Sorry, I do not recognize that command. Please choose one of my four functions: my-tweets; spotify-this-song "song to search", movie-this "movie to search", or do-what-it-says.');
-}
+};
 
 // Function to run when process.argv[2] is "my-tweets"
 function tweeter() {
@@ -52,7 +56,7 @@ function tweeter() {
 				}
 			}
 	});
-}
+};
 
 // Function to run when process.argv[2] is spotify-this-song
 function spotter() {
@@ -72,20 +76,19 @@ function spotter() {
 		return console.log('Error occurred: ' + err);
 		}
 
-		console.log("Artist: " + data.tracks.items[0].artists[0].name);
-		log("Artist: " + data.tracks.items[0].artists[0].name); 
+		console.log("Artist: " + data.tracks.items[0].artists[0].name); 
 		console.log("                                                                ");
 		console.log("Song: " + data.tracks.items[0].name);
-		log("Song: " + data.tracks.items[0].name);
 		console.log("                                                                ");
 		console.log("Album: " + data.tracks.items[0].album.name);
-		log("Album: " + data.tracks.items[0].album.name);
 		console.log("                                                                ");
 		console.log("Link to song: " + data.tracks.items[0].href);
+		log("Artist: " + data.tracks.items[0].artists[0].name);
+		log("Song: " + data.tracks.items[0].name);
+		log("Album: " + data.tracks.items[0].album.name);
 		log("Link to song: " + data.tracks.items[0].href);
-		log("                                                                        ");
 	});
-}
+};
 
 //Function for when process.argv[2] is movie-this
 function movier() {
@@ -135,11 +138,12 @@ function movier() {
 			}
 		}
 	});
-}
+};
 
 // Function for when process.argv[2] is do-what-it-says
 function randomer() {
 	//console.log("random");
+	
 	// Reads random .text and splits the text each time a semicolon appears
 	fs.readFile('random.txt', 'utf-8', function read(err, data) {
 		var randSet = data.split(";");
@@ -153,15 +157,18 @@ function randomer() {
 			switch(userService) {
 				case "my-tweets":
 					//twitter stuff
+					logHead();
 					tweeter();
 					break;
 				case "spotify-this-song":
 					//spotify stuff
 					//console.log(search);
+					logHead();
 					spotter();
 					break;
 				case "movie-this":
 					//omdb stuff
+					logHead();
 					movier();
 					break;
 				default:
@@ -169,11 +176,22 @@ function randomer() {
 			}
 		
 	});
-}
+};
 
 //Function to log parameter into log.txt file
 function log(toAppend) {
-  	fs.appendFile('log.txt', toAppend , function (err) {
+  	fs.appendFile('log.txt', toAppend + "\r\n" , function (err) {
   		if (err) throw err;
 	});
-}
+};
+
+// Function to log process.argv[2] and process.argv[3] (if applicable) to log.txt
+function logHead() {
+	if (search !== undefined) {
+		log("============================= \r\n" + userService + " " + search);
+	} else if (process.argv[3] !== undefined) {
+		log("============================= \r\n" + userService + " " + process.argv[3]);
+	} else {
+		log("============================= \r\n" + userService);
+	}
+};
